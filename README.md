@@ -18,9 +18,13 @@ Inspirée de *Ghost Recon Wildlands*, cette caméra permet au joueur d’incarne
 
 ### 2. Caméra Drone (FPS)
 Cette caméra est utilisée pour contrôler un drone en vue à la première personne, avec des options de zoom et de vol.  
-- **Zoomer/Dézoomer :** Grandes gâchettes (LT/RT sur Xbox, L2/R2 sur PlayStation).  
+- **Zoomer/Dézoomer :**
+  - Molette (souris)
+  - Grandes gâchettes (LT/RT sur Xbox, L2/R2 sur PlayStation).  
 - **Vol vertical :**  
-  - Monter : Petite gâchette gauche (LB sur Xbox, L1 sur PlayStation).  
+  - Monter :
+    - Espace ou Majuscule gauche (clavier)   
+    - Petite gâchette gauche (LB sur Xbox, L1 sur PlayStation).  
   - Descendre : Petite gâchette droite (RB sur Xbox, R1 sur PlayStation).  
 - **Déplacements :**  
   - WASD (clavier)  
@@ -41,16 +45,16 @@ Inspirée de *Stardew Valley*, cette caméra offre une vue 2D pour une expérien
 |---------------------|------------------------|---------------------------------|
 | **Déplacement TPS/2D** | WASD / Flèches         | Joystick gauche                |
 | **Regarder (TPS)**  | Souris                | Joystick droit                 |
-| **Zoomer (Drone)**  | -                     | RT / R2                        |
-| **Dézoomer (Drone)** | -                     | LT / L2                        |
-| **Monter (Drone)**  | -                     | LB / L1                        |
-| **Descendre (Drone)** | -                     | RB / R1                        |
+| **Zoomer (Drone)**  | Molette vers le haut                     | RT / R2                        |
+| **Dézoomer (Drone)** | Molette vers le bas                    | LT / L2                        |
+| **Monter (Drone)**  | Espace / Maj gauche                    | LB / L1                        |
+| **Descendre (Drone)** | C / Controle gauche                    | RB / R1                        |
 
 ---
 
 ## 📄 Documentation
 
-Pour une documentation détaillée et des instructions supplémentaires, consultez le Google Docs suivant :  
+Le document GD concernant les caméras :  
 ➡️ [Accéder à la documentation](https://docs.google.com/document/d/1fnsFEqBXAniBqyXTreVskEy0oqFWLi04g5IBHIPXL9o/edit?usp=sharing)  
 
 ---
