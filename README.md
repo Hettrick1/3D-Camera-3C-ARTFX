@@ -25,7 +25,9 @@ Cette caméra est utilisée pour contrôler un drone en vue à la première pers
   - Monter :
     - Espace ou Majuscule gauche (clavier)   
     - Petite gâchette gauche (LB sur Xbox, L1 sur PlayStation).  
-  - Descendre : Petite gâchette droite (RB sur Xbox, R1 sur PlayStation).  
+  - Descendre :
+    - C ou Controle gauche (clavier)
+    - Petite gâchette droite (RB sur Xbox, R1 sur PlayStation).   
 - **Déplacements :**  
   - WASD (clavier)  
   - Joystick gauche (manette)  
