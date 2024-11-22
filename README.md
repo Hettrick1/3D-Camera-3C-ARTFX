@@ -61,6 +61,12 @@ Le document GD concernant les caméras :
 
 ---
 
+## 📁 Ou trouver les maps ?
+
+Les maps se trouvent dans le dossier **Content** puis **Levels**
+
+---
+
 ## 🎥 Vidéos de démonstration
 
 Découvrez les fonctionnalités du projet en vidéo :  
