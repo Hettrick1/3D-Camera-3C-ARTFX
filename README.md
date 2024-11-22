@@ -63,7 +63,7 @@ Le document GD concernant les caméras :
 
 ## 📁 Ou trouver les maps ?
 
-Les maps se trouvent dans le dossier content puis Levels
+Les maps se trouvent dans le dossier **Content** puis **Levels**
 
 ---
 
