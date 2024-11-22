@@ -43,14 +43,14 @@ Inspirée de *Stardew Valley*, cette caméra offre une vue 2D pour une expérien
 
 # 🕹️ Commandes 
 
-| **Action**          | **Clavier**            | **Manette Xbox / PlayStation** |
-|---------------------|------------------------|---------------------------------|
+| **Action**             | **Clavier**            | **Manette Xbox / PlayStation** |
+|---------------------   |------------------------|--------------------------------|
 | **Déplacement TPS/2D** | WASD / Flèches         | Joystick gauche                |
-| **Regarder (TPS)**  | Souris                | Joystick droit                 |
-| **Zoomer (Drone)**  | Molette vers le haut                     | RT / R2                        |
-| **Dézoomer (Drone)** | Molette vers le bas                    | LT / L2                        |
-| **Monter (Drone)**  | Espace / Maj gauche                    | LB / L1                        |
-| **Descendre (Drone)** | C / Controle gauche                    | RB / R1                        |
+| **Regarder (TPS)**     | Souris                 | Joystick droit                 |
+| **Zoomer (Drone)**     | Molette vers le haut   | RT / R2                        |
+| **Dézoomer (Drone)**   | Molette vers le bas    | LT / L2                        |
+| **Monter (Drone)**     | Espace / Maj gauche    | LB / L1                        |
+| **Descendre (Drone)**  | C / Controle gauche    | RB / R1                        |
 
 ---
 
