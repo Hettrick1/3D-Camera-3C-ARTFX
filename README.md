@@ -71,5 +71,4 @@ Les maps se trouvent dans le dossier **Content** puis **Levels**
 
 Découvrez les fonctionnalités du projet en vidéo :  
 
-1. [Camera 3D inspiré de Ghost Recon WildLand](https://www.youtube.com/watch?v=ID_VIDEO2)  
-3. [Caméra 2D inspirée de Stardew Valley](https://www.youtube.com/watch?v=ID_VIDEO4) 
+https://github.com/Hettrick1/3D-Camera-3C-ARTFX/tree/main/Video%20%26%20doc
